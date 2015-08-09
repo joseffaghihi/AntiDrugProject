@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace CompleteProject
+namespace ADAM2
 {
 	public class AdamMove : MonoBehaviour
 	{
@@ -91,4 +91,4 @@ namespace CompleteProject
 
        
     }
-}
+}//end of namespace
